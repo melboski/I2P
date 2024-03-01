@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Cstitch
-Comment=Convert images to cross stitch patterns
+Name=I2P
+Comment=Image to Grid Pattern Creator for Diamond Painting, Cross Stitch, & Tapestry Crochet | Transform Photos into Crafting Patterns
 Exec=cstitch
 Icon=cstitch
 Categories=Graphics;2DGraphics;RasterGraphics;Qt;
