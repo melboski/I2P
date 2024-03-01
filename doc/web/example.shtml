@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-  <title>A Cstitch example</title>
+  <title>An I2P Example</title>
   <meta http-equiv="content-type" 
 	content="text/html;charset=utf-8" />
   <link rel="stylesheet" type="text/css" href="index.css" />
@@ -33,7 +33,7 @@ McIntyre baseball card" />
 <div class="imgTitleSmall">The original image.</div>
 
 <p>
-Start cstitch and click the folder icon on the toolbar
+Start I2P and click the folder icon on the toolbar
 <img class="inlineImg" src="images/open.png" alt="open icon" /> to
 open the image.  The first step is to choose the colors to use for the
 pattern.  The default mode (visible on the toolbar) is "Num colors to
